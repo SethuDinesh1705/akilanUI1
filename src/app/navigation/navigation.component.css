@@ -1,0 +1,21 @@
+.navigation {
+  background-color: blue;
+  padding: 10px;
+  display: flex;
+}
+.text {
+  text-align: left;
+  color: gray;
+  width: 20ex;
+  padding: 0.1px;
+  background-color: white;
+}
+a {
+  color: white;
+  font-weight: bold;
+}
+.routinglinks {
+  align-self: center;
+  display: flexbox;
+  margin-left: 200ex;
+}
